@@ -1,0 +1,25 @@
+Acrobatics Agility Moving quickly through difficult terrain. Jumping. Avoiding falling damage. Dodging Ranged attacks.
+Alchemy Intelligence Performing experiments and constructing petty enchantments. Understanding alchemical language and methods. Analyzing chemicals, plants, and metals.
+Animal Handling Personality Calming wild animals. Training and caring for domestic animals. Riding beasts of burden. Identifying different animals.
+Athletics Brawn Moving forcefully through difficult terrain. Climbing. Swimming. Exerting physical strength.
+Command Personality Issuing orders to subordinates. Coercion through force of will. Coordinating allies.
+Counsel Personality Treating lost Resolve and Trauma.
+Craft Intelligence Creating, maintaining, and repairing structures, tools, and devices. Knowledge of armorsmithing, blacksmithing, leatherworking, carpentry, masonry, bowmaking, weaponcrafting, and various fields of engineering.
+Discipline Willpower Resisting shock in battle. Resisting coercion or persuasion. Maintaining concentration. Recovering from lost Resolve and Trauma.
+Healing Intelligence Treating physical damage and Injuries. Diagnosing and treating disease and poison. Determining cause of death.
+Insight Awareness Inspecting people, places, and information closely. Recognizing patterns. Discerning if someone is lying. Recognizing the presence of the unnatural or supernatural.
+Linguistics Intelligence Speaking additional languages. Literacy. Recognizing languages and accents. Deciphering ancient languages or codes. Translating documents or conversations.
+Lore Intelligence Basic knowledge useful for day-to-day life. Knowledge of history and current events. Ability to research historical events through sources such as The Book of Skelos.
+Melee Agility Making Melee attacks. Identifying melee weapons and their Qualities, and caring for them.
+Observation Awareness Finding hidden things. Noticing things that are unusual or simply out of the ordinary.
+Parry Coordination Blocking Melee attacks. Identifying combat styles.
+Persuade Personality Convincing others to do as you wish, by charm or by intimidation.
+Ranged Weapons Coordination Making Ranged attacks. Identifying ranged weaponry. Maintaining ranged weaponry.
+Resistance Brawn Recovering naturally from loss to Vigor and Trauma. Resisting the effects of poison, disease, and environmental effects.
+Sailing Coordination Operating and Identifying boats from the River Styx, the Western Ocean, to the Vilayet Sea.
+Society Personality Knowledge of economics across the Hyborian kingdoms. Skill at buying and selling items and finding a good deal. Dealing with merchant contracts on the Road of Kings.
+Sorcery Willpower Recognizing sorcery in action or from its effects. Knowledge of sorcerers and their doings. Casting spells. Identifying the presence of the unnatural.
+Stealth Agility Moving quietly. Hiding quickly. Hiding objects on one’s person. Disguising oneself.
+Survival Awareness Navigating an unfamiliar environment. Finding shelter. Avoiding environmental hazards. Tracking others.
+Thievery Awareness Picking locks or disarming traps. Sleight of hand. Identifying strengths and weaknesses in security measures. Understanding crime and criminal activity. Interacting with criminals.
+Warfare Intelligence Mass combat tactics, logistics, and strategies. Operating and maintaining siege weapons. Commanding groups in combat. Battlefield reconnaissance.

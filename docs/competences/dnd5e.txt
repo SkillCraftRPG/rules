@@ -1,0 +1,44 @@
+Acrobatics
+Animal Handling
+Arcana
+Athletics
+Blend into a crowd to get the sense of key topics of conversation
+Break free of bonds
+Communicate with a creature without using words
+Control a heavily laden cart on a steep descent
+Craft a small or detailed object
+Deception
+Disable a trap
+Discern whether a seemingly dead or living creature is undead
+Estimate the value of a precious item
+Find the best person to talk to for news, rumors, and gossip
+Force open a stuck, locked, or barred door
+Forge a document
+Get a gut feeling about what course of action to follow
+Hang on to a wagon while being dragged behind it
+History
+Insight
+Intimidation
+Investigation
+Keep a boulder from rolling
+Medicine
+Nature
+Perception
+Performance
+Persuasion
+Pick a lock
+Play a stringed instrument
+Pull together a disguise to pass as a city guard
+Push through a tunnel that is too small
+Recall lore about a craft or trade
+Religion
+Securely tie up a prisoner
+Sleight of Hand
+Stealth
+Steer a chariot around a tight turn
+Survival
+Tip over a statue
+Win a game of skill
+Wriggle free of bonds
+
+https://www.dandwiki.com/wiki/5e_SRD:Skills
