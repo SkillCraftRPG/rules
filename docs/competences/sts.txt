@@ -1,0 +1,29 @@
+Physical Skills often represent personal experience and training.
+- Athletics - sports and movement
+- Brawl - unarmed combat
+- Drive - operating automobiles under rough conditions
+- Firearms - identifying, using, and maintaining shooting weapons.
+- Larceny - picking locks, burglary, bypassing security, sleight of hand, etc
+- Stealth - moving silently and unnoticed
+- Survival - enduring harsh environments
+- Weaponry - identifying, using, and maintaining non-firearm weapons
+Mental Skills often represent knowledge from formal education.
+- Academics - knowledge in Arts and Humanities
+- Computer - computer programs and operating systems
+- Crafts - constructing, crafting, and repairing objects
+- Investigation - solving riddles and finding evidence
+- Medicine - physiology, anatomy, and medical treatments
+- Occult - lore about the supernatural
+- Politics - political processes and bureaucratic maneuvers
+- Science - physical and natural sciences
+Social Skills often represent practiced and honed natural knack.
+- Animal Ken - understanding animal minds and behaviors
+- Empathy - observing emotions and understanding viewpoints
+- Expression - art of communication and entertainment
+- Intimidation - coercing via force and threat
+- Persuasion - convincing others and inspiring their emotions
+- Socialize - social interaction in various situations
+- Streetwise - navigating urban streets and gathering intel there
+- Subterfuge - deceiving others and noticing it
+
+https://whitewolf.fandom.com/wiki/Skill
