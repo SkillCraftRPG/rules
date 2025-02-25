@@ -1,6 +1,6 @@
 # Médecine
 
-🚧Attribut : TODO
+🚧Attribut : [Intellect](/docs/attributs/intellect.md)
 
 🚧Usages:
 
