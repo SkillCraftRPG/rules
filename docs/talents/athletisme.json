@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Athlétisme",
+  "description": "Lorsque le personnage tente d’effectuer un saut, la distance minimale de l’élan est réduite de moitié, soit de 3 mètres à 1,5 mètres.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Athlétisme",
+  "todo": [
+    "link:saut"
+  ]
+}
