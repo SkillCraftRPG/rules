@@ -1,0 +1,3 @@
+# 🚧 Attaque
+
+Les armes confèrent un bonus au test lorsqu’un personnage effectue une attaque. Lorsqu’il effectue une attaque avec un membre de son corps, il ne bénéficie d’aucun bonus. Le bonus ajouté au test de l’attaque est indiqué pour chaque arme. Il n’est appliqué qu’aux attaques utilisant cette arme, une attaque ne peut donc bénéficier du bonus d’une seule arme à la fois. De manière générale, ce bonus varie en fonction de la taille et du poids de l’arme. Il est de +1 pour les armes légères, de +2 pour les armes à une main et les armes de jet, de +3 pour les armes versatiles, de +4 pour les armes à deux mains et de +5 pour les armes possédant la propriété **Munition**.
