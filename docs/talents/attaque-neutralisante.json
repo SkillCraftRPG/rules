@@ -1,0 +1,20 @@
+{
+  "tier": 1,
+  "name": "Attaque neutralisante",
+  "description": "Une fois par round et en effectuant une attaque de mêlée en maniant une arme effectuant du dégât contondant, permet au personnage de dépenser 5 points d’Énergie afin de réduire les points de dégâts de moitié et d’infliger des points de dégâts non létaux. Il peut dépenser 10 points d’Énergie au lieu de 5 afin d’annuler la réduction en points de dégâts. À la discrétion du maître de jeu, un personnage peut utiliser une arme non contondante, en autant qu’il frappe sa cible par une attaque de mêlée en utilisant une portion de l’arme s’apparentant à une arme contondante, par exemple le pommeau d’une épée ou la poignée d’une arme d’hast.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "melee",
+  "skill": null,
+  "todo": [
+    "link:arme effectuant du dégât contondant",
+    "link:attaque de mêlée",
+    "link:dégâts létaux/non-létaux",
+    "link:dégâts",
+    "link:round",
+    "link:Énergie",
+    "n’est-ce pas une arme improvisée de frapper avec le pommeau de l’arme, comme frapper avec un arc?",
+    "plus que une fois par round?",
+    "pourrait être effectué avec une arme de finesse? si oui, pas Mêlée requis.",
+    "utilité du non-létal"
+  ]
+}

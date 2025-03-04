@@ -1,0 +1,17 @@
+{
+  "tier": 0,
+  "name": "Cuirassé",
+  "description": "Le personnage acquiert les capacités suivantes :\n\n- Il est formé au port des armures lourdes et à l’utilisation des boucliers lourds.\n- Il est formé au port de deux couches d’armure.\n- Lorsqu’il porte une armure complète, il se voit conférer un bonus de +1 à sa Défense.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "formation-martiale",
+  "skill": null,
+  "todo": [
+    "link:Défense",
+    "link:armure complète",
+    "link:armures lourdes",
+    "link:boucliers lourds",
+    "link:formation au port de deux couches d’armure",
+    "link:formation au port des armures",
+    "link:formation à l’utilisation des boucliers"
+  ]
+}

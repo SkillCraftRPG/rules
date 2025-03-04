@@ -1,0 +1,14 @@
+{
+  "tier": 1,
+  "name": "Armes à deux mains",
+  "description": "Lorsque le personnage réussit une attaque en maniant une arme de mêlée à deux mains ou une arme versatile en la tenant à deux mains, alors il peut relancer les dés de dégâts qui tombent sur les faces 1 et 2 du dé. Il doit conserver le nouveau résultat des dés relancés, même s’il est tombé sur les faces 1 et 2 du dé.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "melee",
+  "skill": null,
+  "todo": [
+    "link:armes versatile",
+    "link:armes à deux mains",
+    "link:attaque de mêlée",
+    "link:dégâts"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "tier": 1,
+  "name": "Armes de jet",
+  "description": "Forme le personnage au maniement des armes de jet simples et martiales. Lorsque le personnage effectue une attaque en lançant une arme de jet, alors il peut remplacer le test d’_Orientation_ par un test de _Mêlée_. Si l’attaque réussit, il ajoute sa Force aux points de dégâts infligés plutôt que sa Précision. Également, lorsqu’il lance une arme de jet, alors le bonus conféré par cette arme au test de l’attaque augmente à +5.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "link:Force",
+    "link:Mêlée",
+    "link:Orientation",
+    "link:Précision",
+    "link:armes de jet simples et martiales",
+    "link:attaque à distance",
+    "link:bonus conféré par une arme",
+    "link:dégâts",
+    "link:formation au maniement des armes",
+    "link:test d’attaque",
+    "useless if no talent: Mêlée, Orientation"
+  ]
+}

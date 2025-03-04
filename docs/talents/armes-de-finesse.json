@@ -1,0 +1,20 @@
+{
+  "tier": 1,
+  "name": "Armes de finesse",
+  "description": "Forme le personnage au maniement des armes de finesse simples et martiales. Lorsque le personnage effectue une attaque en maniant une arme de finesse, alors il peut remplacer le test de _Mêlée_ par un test d’_Orientation_. Si l’attaque réussit, il ajoute sa Précision aux points de dégâts infligés plutôt que sa Force. Également, il se voit conférer un bonus égal à son tiers de personnage aux points de dégâts infligés en maniant une arme de finesse lorsqu’il ne tient aucune autre arme.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "orientation",
+  "skill": null,
+  "todo": [
+    "link:Force",
+    "link:Mêlée",
+    "link:Orientation",
+    "link:Précision",
+    "link:armes de finesse simples et martiales",
+    "link:attaque de mêlée",
+    "link:dégâts",
+    "link:formation au maniement des armes",
+    "link:test d’attaque",
+    "link:tiers"
+  ]
+}

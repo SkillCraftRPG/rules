@@ -1,0 +1,19 @@
+{
+  "tier": 0,
+  "name": "Mêlée",
+  "description": "Forme le personnage au maniement des armes simples de mêlée. Il est également formé au port des armures légères et à l’utilisation des boucliers légers.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Melee",
+  "todo": [
+    "link:armes simples de mêlée",
+    "link:armures légères",
+    "link:boucliers légers",
+    "link:formation au maniement des armes",
+    "link:formation au port des armures",
+    "link:formation à l’utilisation des boucliers",
+    "no armor training ⇒ disadvantage on Vigueur and Adresse tests, cannot cast spells",
+    "no shield training ⇒ ❓",
+    "no weapon training ⇒ do not add skill rank to tests"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tier": 1,
+  "name": "Tir rapide",
+  "description": "Permet au personnage d’effectuer l’activité **Viser et tirer** au coût d’une seule action plutôt que deux lorsqu’il utilise une arme possédant la propriété **Munition**. Également, grâce à la rapidité de ses tirs, il ne déclenche pas d’attaque d’opportunité lorsqu’il effectue une attaque à distance en utilisant une de ces armes.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "armes-de-tir",
+  "skill": null,
+  "todo": [
+    "link:Viser et tirer",
+    "link:action",
+    "link:activités",
+    "link:armes",
+    "link:attaque d’opportunité",
+    "link:attaque à distance",
+    "link:propriété Munition"
+  ]
+}
