@@ -1,0 +1,18 @@
+{
+  "tier": 0,
+  "name": "Arts martiaux",
+  "description": "Permet au personnage d’effectuer une attaque en utilisant un membre de son corps, comme un poing, un pied ou sa tête, comme s’il maniait une arme pour laquelle il est formé. Il effectue un test de _Mêlée_. En cas de réussite, il inflige un nombre de points de dégâts contondants non létaux égal à 1d4 additionné à sa Force.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "link:Force",
+    "link:Mêlée",
+    "link:attaque de mêlée",
+    "link:dégâts létaux/non-létaux",
+    "link:dégâts",
+    "link:formation au maniement des armes",
+    "link:test d’attaque",
+    "utilité du non-létal"
+  ]
+}

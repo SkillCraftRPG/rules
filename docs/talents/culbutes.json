@@ -1,0 +1,11 @@
+{
+  "tier": 1,
+  "name": "Culbutes",
+  "description": "",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "acrobaties",
+  "skill": "Acrobatics",
+  "todo": [
+    "description"
+  ]
+}

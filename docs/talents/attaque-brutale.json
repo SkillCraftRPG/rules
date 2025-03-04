@@ -1,0 +1,20 @@
+{
+  "tier": 1,
+  "name": "Attaque brutale",
+  "description": "Une fois par round et en effectuant une attaque de mêlée en maniant une arme à deux mains ou une arme versatile en la tenant à deux mains, le personnage peut dépenser des tranches de 15 points d’Énergie. Pour chaque tranche dépensée, il ajoute une pénalité de -1 à son test d’attaque, mais il ajoute aussi un dé aux points de dégâts infligés par l’attaque si elle réussit. De plus, si la taille de la cible est d’au plus une catégorie supérieure à celle du personnage, la cible est repoussée de 1,5 mètres par tranche dépensée. Le personnage peut dépenser un nombre maximal de tranches égal à son tiers de personnage.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "armes-a-deux-mains",
+  "skill": null,
+  "todo": [
+    "Pourquoi coûte plus cher que Attaque puissante?",
+    "link:armes versatiles",
+    "link:armes à deux mains",
+    "link:attaque de mêlée",
+    "link:catégorie de taille",
+    "link:dégâts",
+    "link:round",
+    "link:test d’attaque",
+    "link:tiers",
+    "link:Énergie"
+  ]
+}

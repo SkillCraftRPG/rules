@@ -1,0 +1,18 @@
+{
+  "tier": 0,
+  "name": "Formation martiale",
+  "description": "Forme le personnage au maniement des armes martiales de mêlée. Il est également formé au port des armures moyennes et à l’utilisation des boucliers moyens. De plus, il ignore la propriété **Bruyante** des armures légères et moyennes qu’il porte.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "melee",
+  "skill": null,
+  "todo": [
+    "link:armes martiales de mêlée",
+    "link:armures légères",
+    "link:armures moyennes",
+    "link:boucliers moyens",
+    "link:formation au maniement des armes",
+    "link:formation au port des armures",
+    "link:formation à l’utilisation des boucliers",
+    "link:propriété Bruyante"
+  ]
+}

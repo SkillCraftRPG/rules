@@ -1,0 +1,23 @@
+{
+  "tier": 0,
+  "name": "Armes improvisées",
+  "description": "Permet au personnage d’effectuer une attaque en utilisant un objet qui n’est pas une arme, ou en utilisant une arme de manière non conventionnelle, par exemple en frappant avec un arc ou le pommeau d’une épée, comme s’il maniait une arme pour laquelle il est formé. Il effectue un test de _Mêlée_ lorsqu’il utilise l’objet en mêlée, ou un test d’_Orientation_ lorsqu’il lance l’objet.\n\nLe bonus conféré au test de l’attaque varie en fonction du maniement de l’objet :\n\n- Manié à une main : +1\n- Objet lancé : +2\n- Manié à deux mains : +3\n\nL’objet inflige 1d4 points de dégâts. S’il met en danger la vie de la cible, il inflige des points de dégâts létaux, sinon, il inflige des points de dégâts non létaux. Le type de dégâts varie en fonction de la nature de l’objet, par exemple :\n\n- Contondant : barreau de prison en métal, chope, coup de luth, louche à soupe, mobilier.\n- Perçant : aiguille, arrache-clou d’un marteau, clou, fourchette, pointe d’un porte-bannière.\n- Tranchant : brides d’une monture, couteau de cuisine, fragment de verre, hache de bûcheron.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "link:Force",
+    "link:Mêlée",
+    "link:Orientation",
+    "link:Précision",
+    "link:armes non conventionnelles",
+    "link:attaque",
+    "link:bonus conféré par une arme",
+    "link:dégâts létaux/non-létaux",
+    "link:dégâts",
+    "rephraser première phrase",
+    "se combine avec Armes de jet?",
+    "utilité du non-létal",
+    "voir Attaque neutralisante"
+  ]
+}

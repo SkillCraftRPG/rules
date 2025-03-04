@@ -1,0 +1,22 @@
+{
+  "tier": 1,
+  "name": "Attaque sournoise",
+  "description": "Une fois par round, permet au personnage d’ajouter 1d6 aux points de dégâts infligés par une attaque. 🚧Afin d’utiliser cette capacité, l’attaque doit être effectuée par un test d’_Orientation_. Il peut donc l’utiliser lorsqu’il effectue une attaque à distance ou en maniant une arme de finesse, s’il a acquis le talent <u>Armes de finesse</u>. De plus, le test de l’attaque doit être effectué avec avantage (par exemple si le personnage est dissimulé aux yeux de la cible), ou un allié du personnage qui n’est pas incapable doit se trouver dans une case adjacente à celle de la cible.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "Mêlée vs Orientation? see Attaque puissante",
+    "Pourquoi ne coûte pas d’Énergie?",
+    "link:Orientation",
+    "link:armes de finesse",
+    "link:attaque de mêlée",
+    "link:attaque à distance",
+    "link:avantage",
+    "link:dissimulé",
+    "link:dégâts",
+    "link:incapable",
+    "link:round",
+    "link:test d’attaque"
+  ]
+}

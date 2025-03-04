@@ -1,0 +1,12 @@
+{
+  "tier": 0,
+  "name": "Acrobaties",
+  "description": "Lorsque le personnage est renversé, se relever ne lui coûte maintenant que le quart de sa vitesse plutôt que la moitié.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Acrobatics",
+  "todo": [
+    "link:renversé",
+    "link:vitesse"
+  ]
+}

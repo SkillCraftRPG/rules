@@ -1,0 +1,11 @@
+{
+  "tier": 3,
+  "name": "Parkour",
+  "description": "",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "repli-defensif",
+  "skill": "Acrobatics",
+  "todo": [
+    "description"
+  ]
+}

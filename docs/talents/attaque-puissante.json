@@ -1,0 +1,20 @@
+{
+  "tier": 1,
+  "name": "Attaque puissante",
+  "description": "Une fois par round et en effectuant une attaque de mêlée en maniant une arme à une main ou une arme versatile en la tenant à une main, le personnage peut dépenser des tranches de 10 points d’Énergie. Pour chaque tranche dépensée, il ajoute une pénalité de -1 à son test d’attaque, mais il remplace un dé de dégâts par sa valeur maximale si l’attaque réussit. Le personnage peut dépenser un nombre maximal de tranches égal à son tiers de personnage.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "Mêlée vs Orientation? see Attaque sournoise",
+    "Pourquoi coûte moins cher que Attaque brutale?",
+    "link:armes versatiles",
+    "link:armes à une main",
+    "link:attaque de mêlée",
+    "link:dégâts",
+    "link:round",
+    "link:test d’attaque",
+    "link:tiers",
+    "link:Énergie"
+  ]
+}
