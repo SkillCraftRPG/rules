@@ -4,7 +4,7 @@
   "description": "Lorsque le personnage est renversé, se relever ne lui coûte maintenant que le quart de sa vitesse plutôt que la moitié.",
   "allowMultiplePurchases": false,
   "requiredTalent": null,
-  "skill": "Acrobatics",
+  "skill": "Acrobaties",
   "todo": [
     "link:renversé",
     "link:vitesse"

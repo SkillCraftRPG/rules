@@ -4,7 +4,7 @@
   "description": "Forme le personnage au maniement des armes simples de mêlée. Il est également formé au port des armures légères et à l’utilisation des boucliers légers.",
   "allowMultiplePurchases": false,
   "requiredTalent": null,
-  "skill": "Melee",
+  "skill": "Mêlée",
   "todo": [
     "link:armes simples de mêlée",
     "link:armures légères",
