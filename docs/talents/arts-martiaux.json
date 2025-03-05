@@ -6,13 +6,7 @@
   "requiredTalent": null,
   "skill": null,
   "todo": [
-    "link:Force",
-    "link:Mêlée",
-    "link:attaque de mêlée",
-    "link:dégâts létaux/non-létaux",
-    "link:dégâts",
-    "link:formation au maniement des armes",
-    "link:test d’attaque",
+    "links",
     "utilité du non-létal"
   ]
 }

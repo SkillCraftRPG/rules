@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Discipline",
+  "description": "Confère au personnage un bonus permanent de 5 points d’Énergie.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Discipline",
+  "todo": [
+    "links"
+  ]
+}

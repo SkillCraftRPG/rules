@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Compétence",
+  "description": "Confère au personnage un bonus permanent de 4 points d’Apprentissage. Il obtient donc 4 points de compétence à dépenser afin d’augmenter le rang de ses compétences.",
+  "allowMultiplePurchases": true,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "links"
+  ]
+}

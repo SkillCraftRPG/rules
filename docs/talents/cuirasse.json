@@ -6,12 +6,6 @@
   "requiredTalent": "formation-martiale",
   "skill": null,
   "todo": [
-    "link:Défense",
-    "link:armure complète",
-    "link:armures lourdes",
-    "link:boucliers lourds",
-    "link:formation au port de deux couches d’armure",
-    "link:formation au port des armures",
-    "link:formation à l’utilisation des boucliers"
+    "links"
   ]
 }
