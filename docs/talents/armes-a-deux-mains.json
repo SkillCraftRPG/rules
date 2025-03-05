@@ -6,9 +6,6 @@
   "requiredTalent": "melee",
   "skill": null,
   "todo": [
-    "link:armes versatile",
-    "link:armes à deux mains",
-    "link:attaque de mêlée",
-    "link:dégâts"
+    "links"
   ]
 }

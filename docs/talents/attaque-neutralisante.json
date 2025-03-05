@@ -6,12 +6,7 @@
   "requiredTalent": "melee",
   "skill": null,
   "todo": [
-    "link:arme effectuant du dégât contondant",
-    "link:attaque de mêlée",
-    "link:dégâts létaux/non-létaux",
-    "link:dégâts",
-    "link:round",
-    "link:Énergie",
+    "links",
     "n’est-ce pas une arme improvisée de frapper avec le pommeau de l’arme, comme frapper avec un arc?",
     "plus que une fois par round?",
     "pourrait être effectué avec une arme de finesse? si oui, pas Mêlée requis.",

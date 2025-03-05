@@ -1,0 +1,11 @@
+{
+  "tier": 1,
+  "name": "Entraînement II",
+  "description": "Augmente de +1 de manière permanente le score d’un attribut du personnage dont le score est inférieur ou égal à 1.",
+  "allowMultiplePurchases": true,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "links"
+  ]
+}

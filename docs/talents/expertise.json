@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Expertise",
+  "description": "Ce talent peut être acquis pour chaque compétence. À l’acquisition de ce talent, le personnage sélectionne une compétence. Il se voit conférer un bonus permanent aux tests de cette compétence égal à 2 additionné à son tiers de personnage.",
+  "allowMultiplePurchases": true,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "links"
+  ]
+}

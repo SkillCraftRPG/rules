@@ -6,12 +6,6 @@
   "requiredTalent": "armes-de-tir",
   "skill": null,
   "todo": [
-    "link:Viser et tirer",
-    "link:action",
-    "link:activités",
-    "link:armes",
-    "link:attaque d’opportunité",
-    "link:attaque à distance",
-    "link:propriété Munition"
+    "links"
   ]
 }

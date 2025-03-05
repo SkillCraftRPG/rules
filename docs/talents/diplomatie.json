@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Diplomatie",
+  "description": "Lorsque le personnage utilise l’activité **Aider**, sa portée augmente de 1,5 mètres à 4,5 mètres.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Diplomatie",
+  "todo": [
+    "links"
+  ]
+}

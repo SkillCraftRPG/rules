@@ -1,0 +1,11 @@
+{
+  "tier": 2,
+  "name": "Accélération",
+  "description": "Confère au personnage un bonus permanent de 2 points de mouvement.",
+  "allowMultiplePurchases": true,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "links"
+  ]
+}

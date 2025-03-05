@@ -1,0 +1,11 @@
+{
+  "tier": 1,
+  "name": "Costaud",
+  "description": "",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "athletisme",
+  "skill": "Athlétisme",
+  "todo": [
+    "description"
+  ]
+}

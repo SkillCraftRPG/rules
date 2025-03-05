@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Connaissance",
+  "description": "Le personnage acquiert des connaissances sur un nombre de domaines égal à son rang de Connaissance. Chaque fois que son rang de Connaissance augmente d’un point, il acquiert des connaissances sur un domaine supplémentaire de son choix. Le joueur et le maître de jeu collaborent afin de définir les sujets pouvant constituer un domaine de connaissances.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Connaissance",
+  "todo": [
+    "links"
+  ]
+}

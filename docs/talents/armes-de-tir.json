@@ -6,12 +6,6 @@
   "requiredTalent": "orientation",
   "skill": null,
   "todo": [
-    "link:action",
-    "link:armes martiales à distance",
-    "link:attaque à distance",
-    "link:bonus conféré par une arme",
-    "link:formation au maniement des armes",
-    "link:propriété Munition",
-    "link:test d’attaque"
+    "links"
   ]
 }

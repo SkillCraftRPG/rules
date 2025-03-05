@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Artisanat",
+  "description": "Le personnage est formé à l’utilisation d’un nombre d’outils d’artisan égal à son rang d’Artisanat. Chaque fois que son rang d’Artisanat augmente d’un point, il est formé à l’utilisation d’un type d’outils d’artisan supplémentaire de son choix.\n\nÉgalement, en situation de combat, il peut réparer temporairement une pièce d’équipement telle une arme, un bouclier ou une armure. Par une action, il effectue un test d’Artisanat auquel il peut Faire 10 s’il le désire. Il n’a pas besoin de posséder les matériaux, les outils et l’atelier nécessaires à la réparation. À la fin du combat, la réparation brise, et l’objet doit être réparé normalement avant de pouvoir être réparé à nouveau par cette capacité.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": "Artisanat",
+  "todo": [
+    "links"
+  ]
+}

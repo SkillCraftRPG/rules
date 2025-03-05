@@ -6,13 +6,6 @@
   "requiredTalent": "melee",
   "skill": null,
   "todo": [
-    "link:armes martiales de mêlée",
-    "link:armures légères",
-    "link:armures moyennes",
-    "link:boucliers moyens",
-    "link:formation au maniement des armes",
-    "link:formation au port des armures",
-    "link:formation à l’utilisation des boucliers",
-    "link:propriété Bruyante"
+    "links"
   ]
 }

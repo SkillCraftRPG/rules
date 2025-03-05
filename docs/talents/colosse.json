@@ -1,0 +1,11 @@
+{
+  "tier": 3,
+  "name": "Colosse",
+  "description": "",
+  "allowMultiplePurchases": false,
+  "requiredTalent": "force-incroyable",
+  "skill": "Athlétisme",
+  "todo": [
+    "description"
+  ]
+}

@@ -6,11 +6,6 @@
   "requiredTalent": null,
   "skill": "Orientation",
   "todo": [
-    "link:armes simples à distance",
-    "link:armures légères",
-    "link:boucliers légers",
-    "link:formation au maniement des armes",
-    "link:formation au port des armures",
-    "link:formation à l’utilisation des boucliers"
+    "links"
   ]
 }

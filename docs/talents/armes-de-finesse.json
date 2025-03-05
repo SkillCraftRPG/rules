@@ -6,15 +6,6 @@
   "requiredTalent": "orientation",
   "skill": null,
   "todo": [
-    "link:Force",
-    "link:Mêlée",
-    "link:Orientation",
-    "link:Précision",
-    "link:armes de finesse simples et martiales",
-    "link:attaque de mêlée",
-    "link:dégâts",
-    "link:formation au maniement des armes",
-    "link:test d’attaque",
-    "link:tiers"
+    "links"
   ]
 }

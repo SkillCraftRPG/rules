@@ -1,0 +1,11 @@
+{
+  "tier": 0,
+  "name": "Coup critique",
+  "description": "Lorsque le personnage effectue une attaque, il obtient un coup critique si la somme des dés égale 18 ou 19. Également, si son score d’Adresse est supérieur ou égal à 5, il obtient également un coup critique si la valeur des deux dés est 2, 3, 4 ou 5, ce qui réduit de 5 % à 1 % la probabilité qu’il obtienne un échec critique. Les probabilités qu’il inflige un coup critique sont désormais de 9 %, ou de 13 % si son score d’Adresse est supérieur ou égal à 20.",
+  "allowMultiplePurchases": false,
+  "requiredTalent": null,
+  "skill": null,
+  "todo": [
+    "links"
+  ]
+}
