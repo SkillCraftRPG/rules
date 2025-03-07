@@ -19,3 +19,9 @@ Lorsque le personnage effectue un [test](/docs/tests.md), ce test est régi par 
 ### Augmentation
 
 Chaque fois que le personnage atteint un [niveau](/docs/niveau.md) impair (ex.: 1, 3, 5, 7, …), il augmente de 1 le score d’un de ses attributs. Il ne peut augmenter un attribut dont le score est supérieur ou égal à 5.
+
+## Caractéristiques
+
+Chaque attribut influence également plusieurs caractéristiques d’un personnage. Ces caractéristiques sont décrites en détail dans la page de chaque attribut.
+
+🚧Schéma
