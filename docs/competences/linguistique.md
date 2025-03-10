@@ -1,17 +1,15 @@
 # Linguistique
 
-🚧Attribut : [Intellect](/docs/attributs/intellect.md)
+La compétence **Linguistique** ([Intellect](/docs/attributs/intellect.md)) permet au personnage de :
 
-🚧Usages:
+- Comprendre des schémas, documents et cartes
+- Comprendre le sens d’un texte incomplet ou complexe
+- Comprendre un message non verbal ou communiquer sans la parole
+- Contrefaire un document, telle une preuve d’identité, ou détecter la présence d’un document contrefait
+- Décrypter une langue inconnue ou ancienne
+- Identifier et reconnaître les accents, expressions et figures de style
+- Lire et écrire des documents
+- Maîtriser le vocabulaire
+- Traduire des conversations ou des documents
 
-- Communicate with a creature without using words
-- Deciphering ancient languages or codes.
-- Forge a document
-- Forgery requires writing materials appropriate to the document being forged, enough light or sufficient visual acuity to see the details of what you’re writing, wax for seals (if appropriate), and some time.
-- Literacy.
-- Recognizing languages and accents.
-- Speak Language
-- Speaking additional languages.
-- Translating documents or conversations.
-- You are skilled at working with language, in both its spoken and written forms. You can speak multiple languages, and can decipher nearly any tongue given enough time. Your skill in writing allows you to create and detect forgeries as well.
-- You can decipher writing in an unfamiliar language or a message written in an incomplete or archaic form. The base DC is 20 for the simplest messages, 25 for standard texts, and 30 or higher for intricate, exotic, or very old writing.
+🚧Talents

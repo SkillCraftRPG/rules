@@ -1,11 +1,8 @@
 # Résistance
 
-🚧Attribut : [Santé](/docs/attributs/sante.md)
+La compétence **Résistance** ([Santé](/docs/attributs/sante.md)) permet au personnage de :
 
-🚧Usages:
+- Bloquer ou résister aux effets d’un impact physique, d’un poison ou d’une maladie
+- Ne pas succomber en recevant un important nombre de points de dégâts
 
-- Blocking Melee attacks.
-- Identifying combat styles.
-- Pokémon attacks often clash during battle, use this specialty to block a foe’s attack with one of your own.
-- Recovering naturally from loss to Vigor and Trauma.
-- Resisting the effects of poison, disease, and environmental effects.
+🚧Talents
