@@ -15,7 +15,7 @@ Un personnage acquiert de l’expérience lorsqu’il surmonte les épreuves ren
 
 ## Tiers
 
-Afin d’acquérir un talent, le tiers de ce talent doit être inférieur ou égal au 🚧tiers du personnage.
+Afin d’acquérir un talent, le tiers de ce talent doit être inférieur ou égal au [tiers](/docs/tiers.md) du personnage.
 
 - Un personnage de tiers 0 ne peut acquérir que les talents de tiers 0.
 - Un personnage de tiers 1 peut acquérir les talents de tiers 0 et 1.
