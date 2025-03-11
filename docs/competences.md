@@ -1,6 +1,6 @@
 # Compétences
 
-Les compétences sont des éléments cruciaux du jeu car elles régissent l’ensemble des actions. Chaque compétence est associée à un [attribut](/docs/attributs.md). On ajoute le score de cet attribut aux [tests](/docs/tests.md) effectués avec cettec compétence.
+Les compétences sont des éléments cruciaux du jeu car elles régissent l’ensemble des actions. Chaque compétence est associée à un [attribut](/docs/attributs.md). On ajoute le score de cet attribut aux [tests](/docs/tests.md) effectués avec cette compétence.
 
 <table>
   <thead>

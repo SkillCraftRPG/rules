@@ -2,7 +2,7 @@
 
 La compétence **Diplomatie** (🚧) permet au personnage de :
 
-- Coordonner ses alliés ou subalternes
+- Coordonner ses alliés
 - Influencer l’attitude des autres par son tact, des mots précis ou une étiquette appropriée
 - Négocier avec des marchands
 - Obtenir des informations précises en discutant avec les bonnes personnes
