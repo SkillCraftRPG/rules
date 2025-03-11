@@ -1,0 +1,3 @@
+# Halte
+
+Lorsqu’un personnage effectue une activité légère pendant une heure ininterrompue, il fait **halte**. Une activité légère implique qu’aucune énergie n’est nécessaire à l’accomplissement de cette activité, par exemple faire tranquillement la conversation, lire ou écrire, monter la garde, s’étendre en restant immobile, ou encore méditer. L’action de manger n’est pas considérée comme une activité légère. Chaque heure à la halte lui permet de récupérer 7 % (1/14) de son Énergie totale. Il peut faire halte pendant 8 heures par période de 24 heures. Au-delà de cette période, les heures supplémentaires n’ont aucun effet.🚧

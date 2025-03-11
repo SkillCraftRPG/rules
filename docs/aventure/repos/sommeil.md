@@ -1,0 +1,5 @@
+# Sommeil
+
+Un personnage requiert de manière générale un minimum de 6 heures de sommeil par jour. S’il ne dort pas suffisamment au cours d’une journée, il est affligé d’un niveau de Fatigue. Une **nuit complète** est une période d’une durée minimale de 8 heures consécutives, composée de sommeil et de halte. La majorité des personnages peuvent dormir pendant 6 heures et faire [halte](/docs/aventure/repos/halte.md) pendant 2 heures. Lorsqu’un personnage dort, il est considéré comme inconscient.🚧
+
+Lorsqu’un personnage complète une nuit de sommeil, il récupère un niveau de Fatigue et peut retirer une pénalité de -1 au score d’un attribut🚧. Il récupère également les utilisations de certaines capacités. Ces effets ne sont pas appliqués si sa nuit de sommeil est interrompue, par exemple par un combat ou de fortes intempéries l’obligeant à déplacer son campement. Lorsqu’il complète une nuit de sommeil, il récupère tous ses points d’Énergie ainsi que 14 % (1/7) de sa Vitalité totale, même si celle-ci a été interrompue. Il ne peut bénéficier que d’une seule nuit complète par période de 24 heures.🚧
